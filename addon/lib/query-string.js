@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { A } from '@ember/array';
 import { camelize } from '@ember/string';
 import EmberObject, { get } from '@ember/object';

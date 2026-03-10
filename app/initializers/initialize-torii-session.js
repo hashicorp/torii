@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import bootstrapSession from 'torii/bootstrap/session';
 import { getConfiguration } from 'torii/configuration';
 

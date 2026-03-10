@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import Provider from 'torii/providers/oauth2-code';
 
 var Oauth2Bearer = Provider.extend({

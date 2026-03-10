@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { resolve } from 'rsvp';
 import { run } from '@ember/runloop';
 import { getConfiguration, configure } from 'torii/configuration';

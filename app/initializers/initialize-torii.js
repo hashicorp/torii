@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import bootstrapTorii from 'torii/bootstrap/torii';
 import {configure} from 'torii/configuration';
 import config from '../config/environment';

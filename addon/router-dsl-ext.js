@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import Ember from 'ember';
 import Router from '@ember/routing/router';
 import getRouterLib from 'torii/compat/get-router-lib';

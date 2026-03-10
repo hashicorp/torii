@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { get } from '@ember/object';
 import { run } from '@ember/runloop';
 import DummyAdapter from '../../helpers/dummy-adapter';

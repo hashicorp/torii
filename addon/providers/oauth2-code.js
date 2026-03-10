@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { computed } from '@ember/object';
 import Provider from 'torii/providers/base';
 import { configurable } from 'torii/configuration';

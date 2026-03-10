@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import LinkedInOauth2Provider from 'torii/providers/linked-in-oauth2';
 import GoogleOauth2Provider from 'torii/providers/google-oauth2';
 import GoogleOauth2BearerProvider from 'torii/providers/google-oauth2-bearer';

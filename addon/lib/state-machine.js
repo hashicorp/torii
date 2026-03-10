@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 /*
  * Modification of Stefan Penner's StateMachine.js: https://github.com/stefanpenner/state_machine.js/
  *

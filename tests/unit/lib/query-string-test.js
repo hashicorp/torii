@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { run } from '@ember/runloop';
 import EmberObject from '@ember/object';
 import QueryString from 'torii/lib/query-string';

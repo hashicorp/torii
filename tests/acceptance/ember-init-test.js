@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { inject as service } from '@ember/service';
 import Component from '@ember/component';
 import Controller from '@ember/controller';

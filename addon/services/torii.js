@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import Service from '@ember/service';
 import { Promise as EmberPromise } from 'rsvp';
 import { getOwner } from 'torii/lib/container-utils';

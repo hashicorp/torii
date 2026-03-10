@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { stubValidSession } from '../helpers/torii';
 import QUnit from 'qunit';
 import moduleForAcceptance from '../../tests/helpers/module-for-acceptance';

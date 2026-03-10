@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import EmberRouter from '@ember/routing/router';
 import { later } from '@ember/runloop';
 import {

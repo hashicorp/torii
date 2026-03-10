@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { lookup } from 'torii/lib/container-utils';
 import { getConfiguration } from 'torii/configuration';
 

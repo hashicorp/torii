@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import EmberObject, { computed } from '@ember/object';
 import requiredProperty from 'torii/lib/required-property';
 import { getOwner } from 'torii/lib/container-utils';

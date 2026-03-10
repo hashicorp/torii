@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import ToriiSessionService from 'torii/services/torii-session';
 
 export default function(application, sessionName){

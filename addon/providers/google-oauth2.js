@@ -1,4 +1,9 @@
 /**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
+/**
  * This class implements authentication against google
  * using the OAuth2 authorization flow in a popup window.
  */

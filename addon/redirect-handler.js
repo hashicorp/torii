@@ -1,4 +1,9 @@
 /**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
+/**
  * RedirectHandler will attempt to find
  * these keys in the URL. If found,
  * this is an indication to Torii that

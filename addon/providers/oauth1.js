@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 /*
  * This class implements authentication against an API
  * using the OAuth1.0a request token flow in a popup window.

@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import Route from '@ember/routing/route';
 import { run } from '@ember/runloop';
 import startApp from '../helpers/start-app';
