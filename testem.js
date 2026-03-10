@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 module.exports = {
   test_page: 'tests/index.html?hidepassed',
   disable_watching: true,

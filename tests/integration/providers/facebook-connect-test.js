@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { merge } from '@ember/polyfills';
 import { run } from '@ember/runloop';
 import buildFBMock from '../../helpers/build-fb-mock';

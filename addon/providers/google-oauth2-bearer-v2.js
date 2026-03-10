@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { Promise as EmberPromise } from 'rsvp';
 import { run } from '@ember/runloop';
 import { assign } from '@ember/polyfills';

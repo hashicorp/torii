@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import StateMachine from 'torii/lib/state-machine';
 
 var transitionTo = StateMachine.transitionTo;

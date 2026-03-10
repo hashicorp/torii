@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { later, run, cancel } from '@ember/runloop';
 import { Promise as EmberPromise } from 'rsvp';
 import Mixin from '@ember/object/mixin';

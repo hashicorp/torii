@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { resolve, reject } from 'rsvp';
 import { run } from '@ember/runloop';
 var session, user, adapter, app;

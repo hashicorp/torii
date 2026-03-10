@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 var UUIDGenerator = {
   generate() {
     var d = new Date().getTime();

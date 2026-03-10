@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { later } from '@ember/runloop';
 import { Promise as EmberPromise, reject } from 'rsvp';
 import Route from '@ember/routing/route';

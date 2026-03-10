@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import PopupIdSerializer from 'torii/lib/popup-id-serializer';
 import QUnit from 'qunit';
 

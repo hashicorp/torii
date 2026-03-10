@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import ApplicationRouteMixin from 'torii/routing/application-route-mixin';
 import AuthenticatedRouteMixin from 'torii/routing/authenticated-route-mixin';
 import { lookup, lookupFactory, register } from 'torii/lib/container-utils';

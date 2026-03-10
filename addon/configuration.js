@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import { get, computed } from '@ember/object';
 
 const NAMESPACE = 'providers';

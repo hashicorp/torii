@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2014, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import Evented from '@ember/object/evented';
 import EmberObject from '@ember/object';
 import UiServiceMixin from 'torii/mixins/ui-service-mixin';
